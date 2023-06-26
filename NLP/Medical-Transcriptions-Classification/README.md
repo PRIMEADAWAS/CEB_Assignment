@@ -9,7 +9,7 @@ This Project uses data from mtsample.csv to perform medical text classification 
 - **Pubmed BERT fine tunning**
   using Pubmed BERT which training on biomedical corpus and fine tunning to predict classification
 
-  ![image diagram](https://github.com/PRIMEADAWAS/Medical-Transcriptions-Classification/blob/main/images/diagram.png)
+  ![image diagram](https://github.com/PRIMEADAWAS/CEB_Assignment/blob/main/NLP/Medical-Transcriptions-Classification/blob/main/images/diagram.png)
 
 ## Result
 
